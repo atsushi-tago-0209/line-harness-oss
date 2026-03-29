@@ -7,7 +7,7 @@ account_id = "7cc999f01502c855d2d7812ea96c0fb1"
 [[d1_databases]]
 binding = "DB"
 database_name = "line-harness"
-database_id = "7efe7c20-01ae-4d65-be08-0d7b4202e8a1"
+database_id = "892780b9-97e8-42d6-8513-383fc1e81d8c"
 
 [triggers]
 crons = ["*/5 * * * *"]
