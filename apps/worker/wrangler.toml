@@ -1,8 +1,8 @@
-name = "line-harness"
+name = "line-harness-oss"
 main = "src/index.ts"
 compatibility_date = "2024-12-01"
 workers_dev = true
-account_id = "c40947ff58a767be74a53be79a89d68a"
+account_id = "7cc999f01502c855d2d7812ea96c0fb1"
 
 [[d1_databases]]
 binding = "DB"
